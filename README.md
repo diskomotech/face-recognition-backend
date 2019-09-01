@@ -1,1 +1,1 @@
-# face-recognition-backend
+Face recognition app - backend/API code
